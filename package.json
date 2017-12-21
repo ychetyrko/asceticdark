@@ -1,0 +1,22 @@
+{
+    "name": "asceticdark",
+    "displayName": "AsceticDark",
+    "description": "Ascetic Dark Theme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "ychetyrko",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ascetic Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ascetic Dark-color-theme.json"
+            }
+        ]
+    }
+}
