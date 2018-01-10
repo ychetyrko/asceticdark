@@ -3,7 +3,7 @@
 	"colors": {
 		"list.dropBackground": "#383b3d",
 		"editor.background": "#1e1e1e",
-		"editor.foreground": "#a4a4a4",
+		"editor.foreground": "#a0a0a0",
 		"editor.inactiveSelectionBackground": "#3a3d41",
 		"editor.selectionHighlightBackground": "#add6ff26",
 		"editorIndentGuide.background": "#404040",
@@ -13,7 +13,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#a4a4a4ff",
+				"foreground": "#a0a0a0ff",
 				"background": "#1e1e1eff"
 			}
 		},
@@ -23,8 +23,8 @@
 				"source.groovy.embedded"
 			],
 			"settings": {
-				"foreground": "#A4A4A4",
-				"background": "#1E1E1E"
+				"foreground": "#a0a0a0",
+				"background": "#1e1e1e"
 			}
 		},
 		{
@@ -275,7 +275,7 @@
 				"meta.template.expression"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#a0a0a0"
 			}
 		},
 		{
@@ -306,7 +306,7 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#a0a0a0"
 			}
 		},
 		{
@@ -356,7 +356,7 @@
 				"storage.modifier.package.java"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#a0a0a0"
 			}
 		},
 		{
