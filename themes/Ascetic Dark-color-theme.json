@@ -380,7 +380,8 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#A3BE8C"
+				"foreground": "#606070",
+				"fontStyle": "italic"
 			}
 		},
 		{
