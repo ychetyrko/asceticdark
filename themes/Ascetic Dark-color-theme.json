@@ -468,7 +468,8 @@
 		{
 			"scope": ["meta.decorator.js", "meta.decorator.ts"],
 			"settings": {
-				"fontStyle": "",
+				"fontStyle": "italic",
+				//"foreground": "#808090"
 				"foreground": "#b5cea8"
 			}
 		}
