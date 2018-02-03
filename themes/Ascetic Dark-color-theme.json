@@ -464,6 +464,13 @@
 			"settings": {
 				"foreground": "#b267e6"
 			}
+		},
+		{
+			"scope": ["meta.decorator.js", "meta.decorator.ts"],
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#FFFFFF"
+			}
 		}
 	]
 }
