@@ -469,7 +469,7 @@
 			"scope": ["meta.decorator.js", "meta.decorator.ts"],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#FFFFFF"
+				"foreground": "#b5cea8"
 			}
 		}
 	]
