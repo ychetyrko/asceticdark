@@ -2,7 +2,7 @@
 
 ## Windows
 
-Copy all the files to the %HOMEPATH%/.vscode/extensions/asceticdark 
+Copy all the files to the _%HOMEPATH%/.vscode/extensions/asceticdark_ and restart Visual Studio Code.
 
 ## Mac
 
