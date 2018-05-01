@@ -1,9 +1,11 @@
 {
     "name": "asceticdark",
-    "displayName": "AsceticDark",
+    "displayName": "Ascetic Dark",
     "description": "Ascetic Dark Theme for Visual Studio Code",
     "version": "0.0.1",
-    "publisher": "ychetyrko",
+    "publisher": "Yury Chetyrko",
+    "author": "Yury Chetyrko <ychetyrko@gmail.com> (http://github.com/ychetyrko)",
+    "homepage": "https://github.com/ychetyrko/asceticdark",
     "engines": {
         "vscode": "^1.17.0"
     },
