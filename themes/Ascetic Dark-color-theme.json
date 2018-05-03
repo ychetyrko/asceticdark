@@ -466,7 +466,7 @@
 			}
 		},
 		{
-			"scope": ["meta.decorator.js", "meta.decorator.ts"],
+			"scope": ["meta.decorator.js", "meta.decorator.jsx", "meta.decorator.ts", "meta.decorator.tsx"],
 			"settings": {
 				"fontStyle": "italic",
 				//"foreground": "#808090"
